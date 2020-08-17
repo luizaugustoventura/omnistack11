@@ -9,13 +9,14 @@
     align="center"
     style="color: #CF1940"
 >
-    Cadastre sua ONG e e receba voluntários, ou então seja o herói de uma delas
+    Cadastre sua ONG e receba voluntários, ou então seja o herói de uma delas!
 </h3
 
 <p>Desenvolvido durante a Semana OmniStack 11 (evento realizado pela Rocketseat), o BeTheHero é uma aplicação que permite ao usuário cadastrar os dados de contato de sua ONG, bem como buscar dados de outras ONGs que ele deseja ajudar.</p>
 
 <h4>🛠 Tecnologias e ferramentas: 🛠</h4>
 <ul>
+    <li>TypeScript</li>
     <li>Node.JS e Knex</li>
     <li>ReactJS</li>
     <li>React Native</li>
@@ -24,8 +25,8 @@
 
 <h4>📑 Recursos adicionais: ⌨</h4>
 <ul>
-    <li>Validações no backend com <b>Celebrate</b></li>
-    <li>Testes de integração automatizados com <b>Jest</b></li>
+    <li>Validações no backend com <strong>Celebrate</strong></li>
+    <li>Testes de integração automatizados com <strong>Jest</strong></li>
 </ul>
 
 <h4>📷 Capturas de tela: 📷</h4>
@@ -53,8 +54,8 @@
         <td>
             <img
                 src="screenshots/web_main.jpg"
-                alt="Homepage da aplicação web"
-                title="Homepage da aplicação web"
+                alt="Landing page da aplicação web"
+                title="Landing page da aplicação web"
             />
         </td>
     </tr>
@@ -75,8 +76,8 @@
         <td>
             <img
                 src="screenshots/mobile_main.jpeg"
-                alt="Homepage da aplicação mobile"
-                title="Homepage da aplicação mobile"
+                alt="Landing page da aplicação mobile"
+                title="Landing page da aplicação mobile"
             />
         </td>
         <td>
