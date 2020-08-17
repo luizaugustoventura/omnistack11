@@ -54,8 +54,8 @@
         <td>
             <img
                 src="screenshots/web_main.jpg"
-                alt="Landing page da aplicação web"
-                title="Landing page da aplicação web"
+                alt="Homepage da aplicação web"
+                title="Homepage da aplicação web"
             />
         </td>
     </tr>
@@ -76,8 +76,8 @@
         <td>
             <img
                 src="screenshots/mobile_main.jpeg"
-                alt="Landing page da aplicação mobile"
-                title="Landing page da aplicação mobile"
+                alt="Homepage da aplicação mobile"
+                title="Homepage da aplicação mobile"
             />
         </td>
         <td>
